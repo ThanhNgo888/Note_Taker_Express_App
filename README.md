@@ -12,6 +12,6 @@ Application should allow users to view previously saved notes.
 Application should allow users to delete previously saved notes.
 
 # To run the application:
-Install: npm install ->to install node-module
+Install: npm install ->to install node-module.
 Run : node server.js
 

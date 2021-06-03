@@ -10,7 +10,7 @@ For users that need to keep track of a lot of information, it's easy to forget o
 Application should allow users to create and save notes.
 Application should allow users to view previously saved notes.
 Application should allow users to delete previously saved notes.
-========================================================================
+
 # To run the application:
 install: npm install ->to install node-module
 run : node server.js

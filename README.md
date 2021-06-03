@@ -13,5 +13,5 @@ Application should allow users to delete previously saved notes.
 
 # To run the application
 Install: npm install -> to install node-module.
-Run : node server.js
+Run : node server.js ; Run localhost:3000 on the browser.
 

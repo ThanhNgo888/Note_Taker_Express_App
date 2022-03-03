@@ -1,17 +1,14 @@
-# User Story
-AS A user, I want to be able to write and save notes
-I WANT to be able to delete notes I've written before
-SO THAT I can organize my thoughts and keep track of tasks I need to complete.
+# Note Taker Express.js Application
+* Description
+This application can be used to write and save notes, allowing the user to better organize their thoughts and keep track of the tasks they need to complete. This application uses an Express.js back end to save and retrieve note data from a JSON file.
 
-# Business Context
-For users that need to keep track of a lot of information, it's easy to forget or be unable to recall something important. Being able to take persistent notes allows users to have written information available when needed.
+* How it works
+The following steps explain how this "Note Taker" application works:
 
-# Acceptance Criteria
-Application should allow users to create and save notes.
-Application should allow users to view previously saved notes.
-Application should allow users to delete previously saved notes.
-
-# To run the application
-Install: npm install -> to install node-module.
-Run : node server.js ; Run localhost:3000 on the browser.
-
+When a user opens the Note Taker, they are presented with a landing page containing a link to a notes page.
+When the user clicks on the link to the notes page, they're presented with a page with existing notes listed in the left-hand column, plus empty fields to enter a new note title and the note's text in the right-hand column.
+When the user enters a new note title and the note's text, a save icon appears in the navigation at the top of the page.
+When the user clicks on the save icon, the new note they've entered is saved and appears in the left-hand column with the other existing notes.
+When the user clicks on an existing note in the list in the left-hand column, that note appears in the right-hand column.
+When the user clicks on the write icon in the navigation at the top of the page, they're presented with empty fields to enter a new note and the note's text in the right-hand column.
+Mock-Up

@@ -1,1 +1,23 @@
-[{"title":"Prepare invoices","text":"Prepare and send all invoices promptly to maintain a healthy cashflow.","id":"xwpjutglot"},{"title":"Check inventory","text":"Communicate with  suppliers about items low in inventory","id":"4sdo7srzk7"},{"title":"Follow up with clients","text":"Send a friendly follow-up email to our clients ","id":"tgpkvy3hcn"},{"title":"Check in with employee","text":"Get feedback from employees.","id":"1iymq4enum"},{"title":"New notes:","text":"This is new note!","id":"ndem6524vx"}]
+[
+  {
+    "title": "Prepare invoices",
+    "text": "Prepare and send all invoices promptly to maintain a healthy cashflow.",
+    "id": "xwpjutglot"
+  },
+  {
+    "title": "Check inventory",
+    "text": "Communicate with  suppliers about items low in inventory",
+    "id": "4sdo7srzk7"
+  },
+  {
+    "title": "Follow up with clients",
+    "text": "Send a friendly follow-up email to our clients ",
+    "id": "tgpkvy3hcn"
+  },
+  {
+    "title": "Check in with employee",
+    "text": "Get feedback from employees.",
+    "id": "1iymq4enum"
+  },
+  { "title": "shopping", "text": "shoes\n", "id": "stq1e27e79" }
+]

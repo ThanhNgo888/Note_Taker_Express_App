@@ -52,10 +52,3 @@ Click [**here**](https://note-taker-express-app-heroku.herokuapp.com/) to view d
 ## Credits
 
 The application's front end was provided. To give the application its CRUD (create, read, update, and delete) functionality, I built the bank end, connected the two, and then deployed the entire application to Heroku.
-
-## Questions
-
-Please use the contact information below if you would like to reach me with any questions.
-
-- Github Profile: [**ThanhNgo888**](https://github.com/ThanhNgo888)
-- Email: [**thanhngo26@hotmail.com**]
